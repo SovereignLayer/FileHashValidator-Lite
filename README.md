@@ -2,7 +2,7 @@
 
 A simple CLI tool to check if a file matches any known suspicious SHA256 hashes. Perfect as a beginner C# security utility — runs fully offline and is open source.
 
-## MAKE SURE OT CREATE A FOLDER AND PUT THE FILES IN THERE SO IT CAN RUN PROPERLY
+## MAKE SURE TO CREATE A FOLDER AND PUT THE FILES IN THERE SO IT CAN RUN PROPERLY
 
 ## 🚀 Features
 
